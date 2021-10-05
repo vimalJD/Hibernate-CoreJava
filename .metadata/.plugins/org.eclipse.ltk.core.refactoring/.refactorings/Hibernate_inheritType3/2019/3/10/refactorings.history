@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;OneToOneMapping/src&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_inheritType3&apos;&#x0D;&#x0A;- Destination element: &apos;OneToOneMapping/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     hibernate-annotation.cfg.xml&#x0D;&#x0A;     hibernate-configuration-3.0.dtd" description="Copy files" destination="=OneToOneMapping/src" element1="src/hibernate-annotation.cfg.xml" element2="src/hibernate-configuration-3.0.dtd" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1552132714367" units="0" version="1.0"/>
+</session>
